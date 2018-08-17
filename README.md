@@ -8,7 +8,7 @@ TidalCyclesで音を生成し，それをOSCでTouchDesignerに送信し，映�
 
 ---
 
-## DEM
+## DEMO
 
 [![](https://img.youtube.com/vi/2WaKzH38kZg/0.jpg)](https://www.youtube.com/watch?v=2WaKzH38kZg)
 
