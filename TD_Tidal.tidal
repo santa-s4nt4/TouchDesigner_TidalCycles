@@ -13,6 +13,6 @@ sound "glitch(2, 8)"
 #delay "0.3" #delaytime "0.3" #delayfeedback "0.2"
 #gain "2.0"
 
-d8 $ silence
+d1 $ silence
 
 hush
