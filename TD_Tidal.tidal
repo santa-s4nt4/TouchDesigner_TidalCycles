@@ -1,0 +1,18 @@
+cps (160/130)
+
+d1
+$every 4 (rev)
+$stack [
+sound "notes(2, 8, 0)",
+sound "bassfoo(3, 8, 0)",
+sound "glitch(2, 8)"
+]
+#n (irand 10)
+#pan (irand 5)
+#cutoff (scale 1000 16000 $slow 4 $sine1) #resonance "0.7"
+#delay "0.3" #delaytime "0.3" #delayfeedback "0.2"
+#gain "2.0"
+
+d8 $ silence
+
+hush
